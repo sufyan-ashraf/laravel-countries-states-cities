@@ -1,0 +1,19 @@
+{
+    "name": "sufyan/laravel-countries-states-cities",
+    "description": "A simple laravel library using json files to populate the data for countries, states and cities.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sufyan\\LaravelCountriesStatesCities\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sufyan",
+            "email": "sufyanashraf312@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
