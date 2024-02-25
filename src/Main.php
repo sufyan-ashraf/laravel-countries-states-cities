@@ -1,6 +1,6 @@
 <?php
 
-namespace sufyan\LaravelCountriesStatesCities;
+namespace Sufyan\LaravelCountriesStatesCities;
 
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Str;

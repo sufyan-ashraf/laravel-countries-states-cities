@@ -1,6 +1,6 @@
 <?php
 
-namespace sufyan\LaravelCountriesStatesCities;
+namespace Sufyan\LaravelCountriesStatesCities;
 
 class Country extends Main
 {
