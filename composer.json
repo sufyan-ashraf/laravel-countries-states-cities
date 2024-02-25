@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.3",
     "name": "sufyan/laravel-countries-states-cities",
     "description": "A simple laravel library using json files to populate the data for countries, states and cities.",
     "type": "library",
