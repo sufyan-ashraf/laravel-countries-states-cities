@@ -1,4 +1,4 @@
-# js-countries-states-cities
+# laravel-countries-states-cities
 
 A simple PHP/Laravel package using json files to populate the data for countries, states and cities.
 
